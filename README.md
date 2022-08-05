@@ -1,2 +1,2 @@
-# hello-wrld
+# hello-world
 Creating a hello world program
